@@ -1,5 +1,6 @@
 # duru-art MANIFEST: sha256 of every file in this repository except this one
 # columns (tab-separated): sha256, path, sha256 of the original file used in the video (only when the published file differs: metadata removed)
+705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da	.gitattributes	-
 497e62bdf21139e6ff190b38339f885bfcb7a63ed7bd67f6b3c09a5110f48a52	AI-NOTICE.md	-
 383996bd2d2d68e3879c5a4575b65987993eebf72ae6fda02b77d1ae9a57d179	episodes/2026-07-15_QxF86tUa7b0_ai-keeps-changing-my-character/bad1.png	11be0475094a77e60e3b3e876096d330c7af9ad49005deaf687810662e7bb11a
 d2ce15ba891dcab9d7f00b281abb8c278364390f44f56b598af2843baa559b10	episodes/2026-07-15_QxF86tUa7b0_ai-keeps-changing-my-character/bad2.png	883f3c01712aefdf5dc39f7ebba16e563832d440c38b2121464433ce91036a68
@@ -1005,4 +1006,4 @@ bef34838edb8e2b63826df3329ff0e0385efd9e716f055b5ecede0c67330c84b	episodes/2026-1
 4d1133dccba97d7ab3d0de5bde82a08e1f787039f64cbbf17a4642e0d5d5950f	episodes/2026-11-14_uidwYAxRNCA_one-picture-in-making-web/duru.png	-
 f37580c858233b1bd930438b398062cf188bc9720c6ce56e6f342f253dcb4140	episodes/2026-11-14_uidwYAxRNCA_one-picture-in-making-web/README.md	-
 989a406d23b9d21d9aaacf4c709f157e8cb7448f44dfdd6310e5dcab21fd246a	LICENSE	-
-9a5b9fa2f834015f6246c6c4d0f77d1cf21fa9ff2bb880c7ac067e2c4668dddb	README.md	-
+46dcd2587e97fa84a5aba599e717b47ade140a42f5c30b7e1e2c155985bb10f8	README.md	-

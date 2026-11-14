@@ -44,7 +44,6 @@ CC0 1.0 Universal입니다. 출처를 밝히지 않아도 되고, 고치거나 �
 
 두루가 움직이는 AI 영상 클립(힉스필드 등으로 만든 영상)으로만 나오는 편은 그림 파일이 없어서 넣지 않았습니다.
 
-- 2026-07-13 [내 AI만 자꾸 실수하는 이유](https://youtu.be/xmd4iKkbpxk)
 - 2026-07-16 [BGM 저작권이 무서워 AI로 직접 만들었습니다](https://youtu.be/y6XotWCA0IY)
 - 2026-07-26 [에펙 없이, Ai로 테트리스](https://youtu.be/mk9Usc4-2Ik)
 - 2026-07-29 [AI한테 "아까 말했잖아"가 안 통하는 이유](https://youtu.be/o3P2QV1rlJg)
@@ -61,7 +60,7 @@ CC0 1.0 Universal입니다. 출처를 밝히지 않아도 되고, 고치거나 �
 - 2026-07-31 [AI에 시뮬레이션을 만들게 하는 법](https://youtu.be/9yYM9r2m7v4)
 - 2026-08-07 [AI는 같은 블랙홀을 다시 주지 않습니다](https://youtu.be/r9AWq9Oq228)
 
-아직 공개하지 않은 영상의 그림은 영상을 공개한 뒤에 넣습니다.
+공개 영상만 적었습니다. 아직 공개하지 않은 영상의 그림은 영상을 공개한 뒤에 넣습니다.
 
 ## 파일 확인
 
@@ -117,7 +116,6 @@ When a video shows scenes from another video, the Duru in those scenes is in tha
 
 In these videos Duru only appears in moving AI video clips (made with Higgsfield and similar tools), so there are no picture files to share.
 
-- 2026-07-13 [Why MY AI keeps making mistakes](https://youtu.be/xmd4iKkbpxk)
 - 2026-07-16 [I was scared of a BGM copyright strike, so I made my own with AI](https://youtu.be/y6XotWCA0IY)
 - 2026-07-26 [No After Effects — Tetris, built with AI](https://youtu.be/mk9Usc4-2Ik)
 - 2026-07-29 [Why "I already told you" doesn't work on AI](https://youtu.be/o3P2QV1rlJg)
@@ -134,7 +132,7 @@ Duru does not appear in these videos.
 - 2026-07-31 [How to get AI to build a simulation](https://youtu.be/9yYM9r2m7v4)
 - 2026-08-07 [An AI never gives you the same black hole twice](https://youtu.be/r9AWq9Oq228)
 
-Pictures from videos that are not public yet will be added after those videos go public.
+Only public videos are listed. Pictures from videos that are not public yet will be added after those videos go public.
 
 ### Checking the files
 
