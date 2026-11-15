@@ -1,8 +1,8 @@
 # 두루 그림 (duru-art)
 
-> **AI로 만든 그림입니다.** 이 저장소의 두루 그림은 전부 AI 이미지 생성으로 만들었습니다. 대부분은 OpenAI 이미지 모델(OpenAI Codex에 들어 있는 이미지 생성 도구 image_gen)로 만들었고, 한 편의 그림 몇 장은 힉스필드(Higgsfield)로 만들었습니다. 어느 도구로 만들었는지 기록이 남지 않은 그림도 있습니다. 그림마다 무엇으로 만들고 어떻게 손봤는지는 [AI-NOTICE.md](AI-NOTICE.md)와 편 폴더의 README에 적었습니다.
+> **AI로 만든 그림입니다.** 이 저장소의 두루 그림은 전부 AI 이미지 생성으로 만들었습니다. OpenAI 이미지 모델(OpenAI Codex에 들어 있는 이미지 생성 도구 image_gen)로 만들었고, 일부는 한 장씩 어느 생성 파일에서 왔는지까지는 대조하지 못했습니다. 그림마다 무엇으로 만들고 어떻게 손봤는지는 [AI-NOTICE.md](AI-NOTICE.md)와 편 폴더의 README에 적었습니다.
 
-유튜브 채널 「아낌없이 주는 두루」(https://www.youtube.com/@duru-ai0503) 영상에 나온 두루 그림을 편마다 폴더 하나로 모았습니다. 지금은 19편, 파일 984개입니다. 같은 그림이 여러 편에 나오면 편마다 넣었습니다.
+유튜브 채널 「아낌없이 주는 두루」(https://www.youtube.com/@duru-ai0503) 영상에 나온 두루 그림을 편마다 폴더 하나로 모았습니다. 지금은 20편, 파일 986개입니다. 같은 그림이 여러 편에 나오면 편마다 넣었습니다.
 
 ## 라이선스
 
@@ -20,7 +20,6 @@ CC0 1.0 Universal입니다. 출처를 밝히지 않아도 되고, 고치거나 �
 
 | 공개일 | 영상 | 그림 수 | 폴더 |
 |---|---|---|---|
-| 2026-07-15 | [AI가 내 캐릭터만 자꾸 바꾸는 이유](https://youtu.be/QxF86tUa7b0) | 5 | [2026-07-15_QxF86tUa7b0_ai-keeps-changing-my-character](episodes/2026-07-15_QxF86tUa7b0_ai-keeps-changing-my-character) |
 | 2026-10-31 | [건드리면 반응하는 두루 \| GIF 애니메이션을 Ai로 만들자](https://youtu.be/Tasm6Eb2n5g) | 120 | [2026-10-31_Tasm6Eb2n5g_poke-duru-short](episodes/2026-10-31_Tasm6Eb2n5g_poke-duru-short) |
 | 2026-10-31 | [들어보고 무료로 다운로드하는 음악 플레이리스트 · 1시간](https://youtu.be/nQNfS5DZUiM) | 48 | [2026-10-31_nQNfS5DZUiM_zoneout-playlist-1h](episodes/2026-10-31_nQNfS5DZUiM_zoneout-playlist-1h) |
 | 2026-11-03 | [코드로 작곡한 16곡, 겹치는 건?](https://youtu.be/caToZqRQQOY) | 9 | [2026-11-03_caToZqRQQOY_bgm-free-making-short](episodes/2026-11-03_caToZqRQQOY_bgm-free-making-short) |
@@ -38,29 +37,27 @@ CC0 1.0 Universal입니다. 출처를 밝히지 않아도 되고, 고치거나 �
 | 2026-11-10 | [AI가 망친 두루를 되찾은 방법](https://youtu.be/xdjCyGcwCdg) | 174 | [2026-11-10_xdjCyGcwCdg_clap-face-making](episodes/2026-11-10_xdjCyGcwCdg_clap-face-making) |
 | 2026-11-14 | [WHAT YOUR COLOR.(Made by Python with AI)](https://youtu.be/2T3t7NSwQis) | 120 | [2026-11-14_2T3t7NSwQis_what-your-color-longform](episodes/2026-11-14_2T3t7NSwQis_what-your-color-longform) |
 | 2026-11-14 | [WHAT YOUR COLOR.](https://youtu.be/Kh3IdNJEvVM) | 44 | [2026-11-14_Kh3IdNJEvVM_what-your-color-short](episodes/2026-11-14_Kh3IdNJEvVM_what-your-color-short) |
+| 2026-11-14 | [캐릭터 그림 한 장이면, 영상을 만들 수 있게 공유 드려요](https://youtu.be/ovsEGLaMZf4) | 6 | [2026-11-14_ovsEGLaMZf4_colorkit-making](episodes/2026-11-14_ovsEGLaMZf4_colorkit-making) |
+| 2026-11-14 | [두루를 넣으면 두루 색, 멜론을 넣으면 멜론 색](https://youtu.be/rbOFAsWVPlo) | 1 | [2026-11-14_rbOFAsWVPlo_web-howto-duru-melon](episodes/2026-11-14_rbOFAsWVPlo_web-howto-duru-melon) |
 | 2026-11-14 | [그림 한 장 넣었더니 이 영상이 나왔어요](https://youtu.be/uidwYAxRNCA) | 1 | [2026-11-14_uidwYAxRNCA_one-picture-in-making-web](episodes/2026-11-14_uidwYAxRNCA_one-picture-in-making-web) |
 
 ## 여기 없는 편
 
 두루가 움직이는 AI 영상 클립(힉스필드 등으로 만든 영상)으로만 나오는 편은 그림 파일이 없어서 넣지 않았습니다.
 
-- 2026-07-16 [BGM 저작권이 무서워 AI로 직접 만들었습니다](https://youtu.be/y6XotWCA0IY)
 - 2026-07-26 [에펙 없이, Ai로 테트리스](https://youtu.be/mk9Usc4-2Ik)
-- 2026-07-29 [AI한테 "아까 말했잖아"가 안 통하는 이유](https://youtu.be/o3P2QV1rlJg)
 - 2026-07-29 [돌릴 때마다 결과가 달라요](https://youtu.be/hQGH3Sas8h8)
 - 2026-07-29 [클로드 코드로 쇼츠 UI 만들기 — 화면 코드 전부 드립니다](https://youtu.be/DjTz9COkTlc)
 - 2026-07-30 [그리고 여러분 가지세요.](https://youtu.be/qMTZ04jxQHU)
 - 2026-08-07 ["이런 화면 어떻게 만들어요?" 코드 드립니다](https://youtu.be/PGwRoWjYIYQ)
-- 2026-09-09 [\[Duru\] Arcade - vibe (MV)](https://youtu.be/lfN2bQsR-wM)
 
 두루가 나오지 않는 편도 있습니다.
 
 - 2026-07-28 [에펙 없이, 수박게임 영상 만들려면?](https://youtu.be/pb0A82OLX70)
 - 2026-07-29 [AI로 리듬게임 영상 만들기, 어디부터 손대죠?](https://youtu.be/hR8UtEGnXxk)
-- 2026-07-31 [AI에 시뮬레이션을 만들게 하는 법](https://youtu.be/9yYM9r2m7v4)
 - 2026-08-07 [AI는 같은 블랙홀을 다시 주지 않습니다](https://youtu.be/r9AWq9Oq228)
 
-공개 영상만 적었습니다. 아직 공개하지 않은 영상의 그림은 영상을 공개한 뒤에 넣습니다.
+공개 영상만 적었습니다. 아직 공개하지 않았거나 일부공개로 돌린 영상의 그림은 넣지 않았고, 공개되면 넣습니다.
 
 ## 파일 확인
 
@@ -72,9 +69,9 @@ grep -v '^#' MANIFEST.txt | awk -F'\t' '{print $1"  "$2}' | sha256sum -c
 
 ## English
 
-> **These pictures were made with AI.** Every Duru picture in this repository was made with AI image generation. Most were made with OpenAI's image model (the image tool image_gen inside OpenAI Codex), and a few pictures in one episode were made with Higgsfield. For some pictures no record remains of which tool made them. [AI-NOTICE.md](AI-NOTICE.md) and the README in each episode folder say how each picture was made and edited.
+> **These pictures were made with AI.** Every Duru picture in this repository was made with AI image generation. They were made with OpenAI's image model (the image tool image_gen inside OpenAI Codex). For some of them the exact generated file each one came from could not be matched. [AI-NOTICE.md](AI-NOTICE.md) and the README in each episode folder say how each picture was made and edited.
 
-This repository collects the Duru pictures that appear in the videos of the YouTube channel "아낌없이 주는 두루" (https://www.youtube.com/@duru-ai0503), one folder per video. Right now that is 19 videos and 984 files. When the same picture is used in several videos, each folder has its own copy.
+This repository collects the Duru pictures that appear in the videos of the YouTube channel "아낌없이 주는 두루" (https://www.youtube.com/@duru-ai0503), one folder per video. Right now that is 20 videos and 986 files. When the same picture is used in several videos, each folder has its own copy.
 
 ### License
 
@@ -92,7 +89,6 @@ When a video shows scenes from another video, the Duru in those scenes is in tha
 
 | Published (KST) | Video | Pictures | Folder |
 |---|---|---|---|
-| 2026-07-15 | [Why AI keeps changing MY character](https://youtu.be/QxF86tUa7b0) | 5 | [2026-07-15_QxF86tUa7b0_ai-keeps-changing-my-character](episodes/2026-07-15_QxF86tUa7b0_ai-keeps-changing-my-character) |
 | 2026-10-31 | [Duru reacts to your touch](https://youtu.be/Tasm6Eb2n5g) | 120 | [2026-10-31_Tasm6Eb2n5g_poke-duru-short](episodes/2026-10-31_Tasm6Eb2n5g_poke-duru-short) |
 | 2026-10-31 | [Zone-out playlist · 1 hour](https://youtu.be/nQNfS5DZUiM) | 48 | [2026-10-31_nQNfS5DZUiM_zoneout-playlist-1h](episodes/2026-10-31_nQNfS5DZUiM_zoneout-playlist-1h) |
 | 2026-11-03 | [16 tracks composed in code. How many overlap?](https://youtu.be/caToZqRQQOY) | 9 | [2026-11-03_caToZqRQQOY_bgm-free-making-short](episodes/2026-11-03_caToZqRQQOY_bgm-free-making-short) |
@@ -110,29 +106,27 @@ When a video shows scenes from another video, the Duru in those scenes is in tha
 | 2026-11-10 | [I Only Asked AI to Make My Character Clap, and It Became Someone Else](https://youtu.be/xdjCyGcwCdg) | 174 | [2026-11-10_xdjCyGcwCdg_clap-face-making](episodes/2026-11-10_xdjCyGcwCdg_clap-face-making) |
 | 2026-11-14 | [WHAT YOUR COLOR.](https://youtu.be/2T3t7NSwQis) | 120 | [2026-11-14_2T3t7NSwQis_what-your-color-longform](episodes/2026-11-14_2T3t7NSwQis_what-your-color-longform) |
 | 2026-11-14 | [WHAT YOUR COLOR.](https://youtu.be/Kh3IdNJEvVM) | 44 | [2026-11-14_Kh3IdNJEvVM_what-your-color-short](episodes/2026-11-14_Kh3IdNJEvVM_what-your-color-short) |
+| 2026-11-14 | [I Turned My Video Into a Template for Any Character](https://youtu.be/ovsEGLaMZf4) | 6 | [2026-11-14_ovsEGLaMZf4_colorkit-making](episodes/2026-11-14_ovsEGLaMZf4_colorkit-making) |
+| 2026-11-14 | [Put in Duru, get Duru's colors. Put in a melon, get melon colors](https://youtu.be/rbOFAsWVPlo) | 1 | [2026-11-14_rbOFAsWVPlo_web-howto-duru-melon](episodes/2026-11-14_rbOFAsWVPlo_web-howto-duru-melon) |
 | 2026-11-14 | [I put in one drawing and this video came out](https://youtu.be/uidwYAxRNCA) | 1 | [2026-11-14_uidwYAxRNCA_one-picture-in-making-web](episodes/2026-11-14_uidwYAxRNCA_one-picture-in-making-web) |
 
 ### Videos not here
 
 In these videos Duru only appears in moving AI video clips (made with Higgsfield and similar tools), so there are no picture files to share.
 
-- 2026-07-16 [I was scared of a BGM copyright strike, so I made my own with AI](https://youtu.be/y6XotWCA0IY)
 - 2026-07-26 [No After Effects — Tetris, built with AI](https://youtu.be/mk9Usc4-2Ik)
-- 2026-07-29 [Why "I already told you" doesn't work on AI](https://youtu.be/o3P2QV1rlJg)
 - 2026-07-29 [The result changes every run](https://youtu.be/hQGH3Sas8h8)
 - 2026-07-29 [I drew this whole screen with code — here are the prompts](https://youtu.be/DjTz9COkTlc)
 - 2026-07-30 [Here it is. Just take it.](https://youtu.be/qMTZ04jxQHU)
 - 2026-08-07 ["How do you make screens like this?" Here is the code](https://youtu.be/PGwRoWjYIYQ)
-- 2026-09-09 [\[Duru\] Arcade - vibe (MV)](https://youtu.be/lfN2bQsR-wM)
 
 Duru does not appear in these videos.
 
 - 2026-07-28 [How do you make a watermelon-merge game video without After Effects?](https://youtu.be/pb0A82OLX70)
 - 2026-07-29 [Making a rhythm-game video with AI — where do you even start?](https://youtu.be/hR8UtEGnXxk)
-- 2026-07-31 [How to get AI to build a simulation](https://youtu.be/9yYM9r2m7v4)
 - 2026-08-07 [An AI never gives you the same black hole twice](https://youtu.be/r9AWq9Oq228)
 
-Only public videos are listed. Pictures from videos that are not public yet will be added after those videos go public.
+Only public videos are listed. Pictures from videos that are not public, or were switched to unlisted, are not included; they will be added if those videos go public.
 
 ### Checking the files
 
